@@ -5,3 +5,5 @@ Console.WriteLine(SayHelloClass.SayHello());
 
 //This checks the data type of the return statement
 Console.WriteLine(SayHelloClass.SayHello().GetType());
+
+Console.ReadLine();
